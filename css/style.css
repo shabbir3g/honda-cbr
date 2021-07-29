@@ -1,0 +1,82 @@
+body {
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+}
+.social-icons {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.social-icons li a i {
+  color: #e77c40;
+  width: 22.01px;
+}
+.text-cbr-blue {
+  color: #23a6f0;
+}
+.text-cbr-black {
+  color: #252b42;
+}
+.cbr-header-bg {
+  background-color: #264653;
+}
+footer {
+  background-color: #0b0d17;
+}
+.footer-menu {
+  margin: 0;
+  padding: 0;
+}
+.footer-menu li {
+  list-style: none;
+  display: inline;
+  margin-right: 24px;
+}
+.footer-menu li a {
+  text-decoration: none;
+  color: #ffffff;
+}
+.get-the-app {
+  color: #d9dbe1;
+  font-size: 18px;
+  margin-left: 8px;
+}
+.cbr-button {
+  background-color: #e76f51;
+  color: #fff;
+  border-radius: 5px;
+  border: 1px solid transparent;
+}
+.cbr-button:hover {
+  background-color: transparent;
+  color: #e76f51;
+  border: 1px solid #e76f51;
+}
+.banner-description {
+  color: #e0e0e0;
+  width: 82%;
+}
+.sub-title {
+  color: #e76f51;
+}
+hr {
+  border: 1px solid #e76f51;
+  border-radius: 1px;
+  width: 60px;
+  margin: auto;
+}
+h2 span {
+  color: #e76f51;
+}
+.accordion-cbr-button:not(.collapsed) {
+  color: #383838;
+  background-color: #fff;
+  box-shadow: none;
+}
+
+.accordion-item:not(:first-of-type) {
+  border-top: 1px solid rgba(0, 0, 0, 0.125);
+}
+.cbr-grey-img {
+  filter: grayscale(100);
+}
